@@ -1,0 +1,15 @@
+venue: 
+venue_conventions: 
+paper_type: regular   # regular | letter
+editorial_conventions: knowledge/ieee_editorial_conventions.md
+prose_quality: knowledge/prose_quality.md
+language_style: profiles/language_style.md
+author_style:   # optional; set to a file written by style-profiler
+argument_architecture: profiles/argument_architecture.md
+manuscript_state: working/manuscript_state.md   # fallback only; the real state file is <manuscript dir>/manuscript_state.md
+manuscript_brief: working/manuscript_brief.md
+evidence_packet: working/evidence_packet.md
+refs_root: refs
+current_manuscript: 
+bib_file: 
+profile_index: profiles/index.md
