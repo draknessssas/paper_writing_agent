@@ -1,7 +1,7 @@
 # IEEE Writing Agent
 
 A manuscript-writing toolkit for **Codex** and **Claude Code**, with shared writing rules, optional style profiles, and local checking tools.
-
+** For internal use only, please cautiously check before applied changes.**
 ## Features
 
 - **Write and revise** paragraphs, sections, abstracts, and captions.
