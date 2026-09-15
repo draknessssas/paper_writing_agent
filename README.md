@@ -101,4 +101,3 @@ $citation-verifier Check main.tex and references.bib against the papers
 in refs/. Report metadata errors and unsupported claims separately.
 ```
 
-For more examples and configuration details, see the [Chinese tutorial](TUTORIAL.zh-CN.md).
