@@ -1,6 +1,8 @@
 # IEEE Writing Agent
 
 A manuscript-writing toolkit for **Codex** and **Claude Code**, with shared writing rules, optional style profiles, and local checking tools.
+Current Fold with No profiled version, Looking for a pre profiled version? Download v3 zip file.
+
 
 For internal use only, please cautiously check before applied changes.
 ## Features
